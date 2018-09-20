@@ -98,7 +98,7 @@ public class FragInProgressTaskTab extends Fragment implements TaskDetails.OnFra
         fetchData();
         return rootView;
     }
-
+//
 
     private void fetchData() {
 
