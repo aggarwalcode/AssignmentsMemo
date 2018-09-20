@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "599484667406",
+    "firebase_url": "https://assignmentsmemo.firebaseio.com",
+    "project_id": "assignmentsmemo",
+    "storage_bucket": "assignmentsmemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599484667406:android:02bff98c78028508",
+        "android_client_info": {
+          "package_name": "com.allmyassignments.assignmentsmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599484667406-9k0dam3okh0349m4rlddgqo7pvaduknh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allmyassignments.assignmentsmemo",
+            "certificate_hash": "962b54459550dcb9ddee0e1a6e4c170b9302ec8e"
+          }
+        },
+        {
+          "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqG3V01TxXt_GBYycgGDoIfAHu9qjCxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599484667406:android:0167c55ae9737dd7",
+        "android_client_info": {
+          "package_name": "com.memo.assignmentsmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599484667406-s1d8l8232avitnpgsiuu0opa1ka8pr63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memo.assignmentsmemo",
+            "certificate_hash": "6943a4e844b0c55d961c421ca5d54321a7f391dc"
+          }
+        },
+        {
+          "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqG3V01TxXt_GBYycgGDoIfAHu9qjCxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599484667406-u2l17opt90gklnv8tsd03m8d40f75r8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
