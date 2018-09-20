@@ -38,6 +38,7 @@ public class AllTaskActivity extends AppCompatActivity implements FragInProgress
     TaskAttributes taskAttributes;
     ArrayList<TaskAttributes> taskAttributesList = new ArrayList<>();
     TabLayout tabLayout;
+    //aad
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
